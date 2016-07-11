@@ -1,0 +1,1 @@
+find ./foldernameofImages -iname "*.jpg" > positives.txt
